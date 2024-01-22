@@ -25,10 +25,10 @@
 - [Courses][course]
 - [Honors][honors]
 
-[icwu]: ~icwu/
+[icwu]: https://icwu307.github.io/icwu.github.io/
 [cgilab_fb]: https://www.facebook.com/lab.cgi.7
 [members]: members.html
-[publications]: ~icwu/publications.html
-[research]: ~icwu/research.html
-[course]: ~icwu/courses.html
-[honors]: ~icwu/honors.html
+[publications]: https://icwu307.github.io/icwu.github.io/publications.html
+[research]: https://icwu307.github.io/icwu.github.io/research.html
+[course]: https://icwu307.github.io/icwu.github.io/courses.html
+[honors]: https://icwu307.github.io/icwu.github.io/honors.html
